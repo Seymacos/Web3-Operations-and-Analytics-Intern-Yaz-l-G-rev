@@ -18,7 +18,7 @@ Aşağıdaki fonksiyonlar kullanılarak işlemler yapılabilir:
    - **temizle():** `hucre` değişkenini sıfırlar.
 
 ## Ekran Görüntüsü
-![Sonuçlar](ciktilar.png)
+![Sonuçlar](ciktilar.jpg)
 
 ## Geliştiren
 Bu proje, Web3 Operations and Analytics staj başvuru süreci için hazırlanmıştır.
